@@ -1,6 +1,9 @@
 ## Hi there 👋
 
-I'm a student. I recently graduted with a Bachelor of Business majoring in Economics and Finance at Griffith University, and am now currently studying in a 1-year honours program through the Bachelor of Economics (Honours) at the University of Queensland (UQ). Currently working on an honours thesis!
+Currently in Graduate Certificate in Data Analysis
+
+Prior Certifications
+- Bachelor of Business (Economics, Finance)
 
 Fields of interest
 - Macroeconomics
