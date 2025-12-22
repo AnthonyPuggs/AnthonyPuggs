@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-Currently in Graduate Certificate in Data Analysis
+Currently studying a Graduate Certificate in Data Analysis at QUT
 
-Prior Certifications
+Qualifications
 - Bachelor of Business (Economics, Finance)
 
 Fields of interest
