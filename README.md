@@ -42,7 +42,7 @@ A stylish and interactive Australian macroeconomic dashboard built in R Shiny, w
 - Supports interactive time-series graphics with zoom, hover, and pan functionality
 - Allows custom ABS series IDs to be added from the sidebar
 
-![License](https://img.shields.io/github/license/AnthonyPuggs/Housing-Affordability-Dashboard?style=flat-square)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)
 ![Last Commit](https://img.shields.io/github/last-commit/AnthonyPuggs/Housing-Affordability-Dashboard?style=flat-square)
 ![R](https://img.shields.io/github/languages/top/AnthonyPuggs/Housing-Affordability-Dashboard?style=flat-square)
 
