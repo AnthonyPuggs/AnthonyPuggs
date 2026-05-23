@@ -35,7 +35,7 @@ An MCP server for Australian economic data, including RBA and ABS series.
 
 A stylish and interactive Australian macroeconomic dashboard built in R Shiny, with live ABS data pulls through `readabs`.
 
-[Live web app](https://anthonypuggs-household-affordability-dashboard.share.connect.posit.cloud/)
+[Live web app](https://anthonypuggs-housing-affordability-dashboard.share.connect.posit.cloud/)
 
 - Built with `shiny`, `bslib`, `ggplot2`, `plotly`, and `readabs`
 - Includes Australian macro indicators such as GDP, CPI inflation, household consumption, labour market indicators, wages, and real cash rate measures
