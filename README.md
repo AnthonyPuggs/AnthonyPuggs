@@ -1,7 +1,7 @@
 <h1 align="center">Anthony Puglisi</h1>
 
 <p align="center">
-  Economist building open-source tools for Australian economic data and applied macroeconomic analysis.
+  Building open-source tools for Australian economic data and applied macroeconomic analysis.
 </p>
 
 <p align="center">
@@ -30,24 +30,20 @@ An interactive R Shiny dashboard for tracking the Australian macroeconomy and co
 
 ## About
 
-I'm an economics and finance graduate based in Australia, with experience in government programme assessment. My interests sit at the intersection of macroeconomics, econometrics and public policy, and I like building tools that make Australian economic data easier to access, analyse and explain.
+I'm a policy officer with a formal background in economics, finance and data analytics based in Australia. My interests sit at the intersection of macroeconomics, econometrics and public policy, and I like building tools that make Australian economic data easier to access, analyse and explain.
 
 Current focus:
 
-- Data infrastructure for RBA and ABS series, so that analysis starts from clean, reproducible inputs
+- Data infrastructure for RBA, ABS and APRA series, so that analysis starts from clean, reproducible inputs
 - Python, R and MATLAB workflows for macroeconomic and financial analysis
-- HANK and DSGE modelling, causal inference and applied policy evaluation
+- Building skills in CGE and DSGE modelling, causal inference and applied policy evaluation
 - Interactive economics resources for the web
 
-Areas I follow closely: monetary and fiscal policy, housing and cost of living, and open-source data tools.
+Areas I follow closely: monetary and fiscal policy, housing and cost of living, and open-source economic and data tools.
 
 ## Tools
 
 Python (pandas, Plotly) · R (tidyverse, Shiny, readabs) · MATLAB and Dynare · SQL
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyPuggs&layout=compact&hide_border=true&theme=graywhite" alt="Top languages" height="165" />
-</p>
 
 ---
 
